@@ -8,7 +8,8 @@
 * получение всего списка событий: http://127.0.0.1:5000/api/calender/v1/event/
 * получение события по идентификатору/ ID: http://127.0.0.1:5000/api/calender/v1/event/put id here/
 * обновление текста события по идентификатору /ID/новый текст: http://127.0.0.1:5000/api/calender/v1/event/ID/ -X PUT -d "date|title1|Put updated text here "
-* удаление события по идентификатору/ ID: http://127.0.0.1:5000/api/calender/v1/event/ put id here/  -X DELETE
+* удаление события по идентификатору/ ID: http://127.0.0.1:5000/api/calender/v1/event/ put id here/ -X DELETE
+* <[http://127.0.0.1:5000/api/calender/v1/event/ put id here/ -X DELETE](http://127.0.0.1:5000/api/calender/v1/event/ put id here/ -X DELETE))>
 
 
 Следующие требования были выполнениы при создании календаря:
